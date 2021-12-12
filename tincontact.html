@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+	<head>
+		<meta charset="utf-8">
+		<title>My Contact Site</title>
+		<link rel = "stylesheet" href = "CSS/styles.css"/>
+	</head>
+	<body>
+		<!-- This acts like the header -->
+		<iframe src="tinheader.html" height="350" width="1200" title="Tin Header" style="border:none;"></iframe>
+		<!-- This is the nav menu -->
+		<div class="topnav">
+			<a href="index.html">Home</a>
+			<a href="tinhobbies.html">My Hobbies</a>
+			<a class="active" href="tincontact.html">My Contact Details</a>
+			<a href="tinvideosaudios.html">My Videos and Audios</a>
+			<a href="tingettoknow.html">Get to know our similarities</a>
+			<a href="tinanimation.html">New Feature: Simple Animation</a>
+		</div>
+	<hr>
+	<h1>How can I help you?</h1>
+	<form action="mailto:christine.joy.manila@adamson.edu.ph" method="post">
+		<label>Your Name:</label>
+		<input type="text" id="yourName" name="yourName"><br>
+		<label>Your Email:</label>
+		<input type="email" name="yourEmail"><br>
+		<label>Your Message:</label><br>
+		<textarea name="yourMessage" rows="10" cols="30"></textarea><br>
+		<input type="submit" name="" id="btnsubmit">
+	</form>
+	
+	<script>
+		var name1= document.getElementById("yourName");
+		btnsubmit.addEventListener("click", function () {
+			alert("Hello "+name1.value+"! Thank you for contacting Chrisitine. Your message is being processed by the server.");
+		});
+	</script>
+</body>
+
+</html>
