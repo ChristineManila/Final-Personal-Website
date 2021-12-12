@@ -7,7 +7,7 @@ Project: Personal Website
 Submitted by: Christine Joy R. Manila (202014094)
 Preview Link: https://htmlpreview.github.io/?https://raw.githubusercontent.com/ChristineManila/Final-Personal-Website/main/tinanimation.html
 
-<h1>Compliance to Project Criteria:</h1> 
+Compliance to Project Criteria: 
 HTML
 1.	Basic - Basic elements such as html, head, title, body, p, div, etc. were used in all webpages	
 2.	List - Unordered List was used for Education, Ordered List was used for Hobbies (see Index.html, Tinhobbies.html
