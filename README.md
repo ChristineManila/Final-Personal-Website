@@ -5,7 +5,7 @@ Course Name: Introduction to Computing
 Teacher: Prof. Gloria Dela Cruz
 Project: Personal Website
 Submitted by: Christine Joy R. Manila (202014094)
-Preview Link: https://htmlpreview.github.io/?https://raw.githubusercontent.com/ChristineManila/Final-Personal-Website/main/tinanimation.html
+Preview Link: https://htmlpreview.github.io/?https://raw.githubusercontent.com/ChristineManila/Final-Personal-Website/main/index.html
 
 Compliance to Project Criteria: 
 HTML
