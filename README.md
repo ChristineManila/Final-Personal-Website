@@ -9,7 +9,7 @@ Preview Link: https://htmlpreview.github.io/?https://raw.githubusercontent.com/C
 
 Compliance to Project Criteria: 
 HTML
-1.	Basic - Basic elements such as <html>, <head>, <title>, <body>, <p>, <div>, etc. were used in all webpages	
+1.	Basic - Basic elements such as html, head, title, body, p, div, etc. were used in all webpages	
 2.	List - Unordered List was used for Education, Ordered List was used for Hobbies (see Index.html, Tinhobbies.html
 3.	Table - Tables were used twice for Work Experience and Skills (see Index.html)
 4.	Video - Videos are shown in tinvideosaudios.html.
